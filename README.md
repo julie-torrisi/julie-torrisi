@@ -1,4 +1,4 @@
-### Hi, I'm Julie Torrisi 👋
+### Hi, I'm Julie Torrisi-Coffey 👋
 
 **Principal Product Designer and design leader.** I build systems first: design systems, 0→1 product frameworks, and AI-native workflows that I take from concept all the way to working code.
 
