@@ -3,24 +3,17 @@
 **Principal Product Designer.** Design systems, AI-native workflows, concept to native code.
 Started in brand and graphic design in New York and London. 11+ years in product, most recently Meta.
 
-<img src="assets/hero.gif" width="100%" alt="Comments UI at scale, the tokens behind it, and the SwiftUI prototype running on device">
-
-| | |
-|---|---|
-| **3B+ people** | on the Comments system I led. 0 metric regressions |
-| **9 teams · 200+ engineers** | one shared design vision |
-| **300+ designers** | on my Visual Asset Framework. 78% faster, $1.2M saved a year |
-| **160 → 10** | comment variants rebuilt as one system |
+<img src="assets/hero.gif" width="100%" alt="Comments UI, the tokens behind it, and the SwiftUI prototype running on device">
 
 #### Shipped
 
 **Comments Modernization · Meta**
 <img src="assets/comments-flow.gif" width="420" alt="End-to-end flow: consume, react, write">
-+10.79% positive sentiment · −24.18% negative comments · iOS, Android, web, Lite · [Case study](https://www.julietorrisi.com)
+One comment system across iOS, Android, web and Lite · [Case study](https://www.julietorrisi.com)
 
 **Visual Asset Framework · Meta**
 <img src="assets/vaf-tokens.gif" width="420" alt="One token change updating six surfaces">
-[Case study](https://www.julietorrisi.com)
+One visual system, adopted across product teams · [Case study](https://www.julietorrisi.com)
 
 **Tin Can**
 <img src="assets/tincan-watch.gif" width="420" alt="Kids watch UI designed while the hardware was built">
