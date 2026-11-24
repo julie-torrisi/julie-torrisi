@@ -1,36 +1,43 @@
-### Hi, I'm Julie Torrisi-Coffey 👋
+### Julie Torrisi-Coffey
 
-**Principal Product Designer and design leader.** I build systems first: design systems, 0→1 product frameworks, and AI-native workflows that I take from concept all the way to working code.
+**Principal Product Designer.** Design systems, AI-native workflows, concept to native code.
+Started in brand and graphic design in New York and London. 11+ years in product, most recently Meta.
 
-I've spent about 20 years in design, most recently 5 years at Meta working across Design Systems, Brand, AI, and Comments.
+<img src="assets/hero.gif" width="100%" alt="Comments UI at scale, the tokens behind it, and the SwiftUI prototype running on device">
 
----
-
-#### What I've shipped
-
-- **Facebook Comments Modernization.** Redesigned the comments experience for 3B+ people, built around three core intents: consume, react, write. Result: **+10.79% positive sentiment**.
-- **Visual Asset Framework.** A system and governance model used by 300+ designers. Result: **78% faster velocity** and **$1.2M saved each year**.
-
-#### What I'm building now
-
-| Project | What it is |
+| | |
 |---|---|
-| **Substrate** | A design system that runs as infrastructure: tokens, Code Connect, and accessibility enforced as governed checks, all within one Design↔Code operating model. |
-| **Cadence** | An AI communications workflow that decides whether to publish a piece directly or send it to the team for review. It shows how to turn design rules into logic an AI can follow, so it produces work you can ship instead of slop. |
-| **Promptcraft** | Prototyping tools for AI-assisted design exploration. |
+| **3B+ people** | on the Comments system I led. 0 metric regressions |
+| **9 teams · 200+ engineers** | one shared design vision |
+| **300+ designers** | on my Visual Asset Framework. 78% faster, $1.2M saved a year |
+| **160 → 10** | comment variants rebuilt as one system |
+
+#### Shipped
+
+**Comments Modernization · Meta**
+<img src="assets/comments-flow.gif" width="420" alt="End-to-end flow: consume, react, write">
++10.79% positive sentiment · −24.18% negative comments · iOS, Android, web, Lite · [Case study](https://www.julietorrisi.com)
+
+**Visual Asset Framework · Meta**
+<img src="assets/vaf-tokens.gif" width="420" alt="One token change updating six surfaces">
+[Case study](https://www.julietorrisi.com)
+
+**Tin Can**
+<img src="assets/tincan-watch.gif" width="420" alt="Kids watch UI designed while the hardware was built">
+Software designed alongside the hardware.
+
+#### Building now
+
+| | Project | What it does | |
+|---|---|---|---|
+| <img src="assets/substrate.gif" width="160"> | **Substrate** | A design system that runs as infrastructure. Tokens, Code Connect and accessibility enforced as checks | [Demo](#) · [Repo](#) |
+| <img src="assets/cadence.gif" width="160"> | **Cadence** | Decides when AI ships the work and when a person steps in | [Figma Community](#) · [Repo](#) |
 
 #### How I work
+**Rules before generation.** I write the logic, so the AI knows what good looks like.
+**Concept to native code.** SwiftUI and React prototypes on real data bring engineering and leadership along.
+**Ambient over loud.** AI should be a quiet layer, not another panel.
 
-- **Constraints before generation.** I write the if-this-then-that rules an engineer would write, so the AI knows what good looks like.
-- **Concept to code.** I prototype in React, Tailwind, and SwiftUI, then use real artifacts to bring engineering, product, and leadership along.
-- **Ambient over loud.** AI should feel like a quiet layer in the product, not another panel to manage.
+`Figma` · `Code Connect` · `SwiftUI` · `React` · `Tailwind` · `Design tokens` · `MCP` · `Claude` · `Cursor`
 
-#### Toolkit
-
-`Figma` · `Code Connect` · `React` · `Tailwind` · `SwiftUI` · `Claude` · `Cursor` · `Design tokens`
-
----
-
-🌐 [julietorrisi.com](https://www.julietorrisi.com) · 💼 [LinkedIn](https://www.linkedin.com/in/julietorrisi) · ✉️ julietorrisi@gmail.com
-
-Open to principal design and design leadership roles at remote-first, AI-native teams.
+[julietorrisi.com](https://www.julietorrisi.com) · [LinkedIn](https://www.linkedin.com/in/julietorrisi) · julietorrisi@gmail.com
