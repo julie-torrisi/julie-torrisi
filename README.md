@@ -1,36 +1,7 @@
-### Julie Torrisi-Coffey
+<a href="https://www.julietorrisi.com"><img src="assets/brand/page.svg" width="100%" alt="Julie Torrisi-Coffey. Principal Product Designer. Systems and AI workflows that ship as code. Started in: Brand and graphic design, New York and London. In product: 11+ years. Recent work: Facebook. Built for enterprise. Design leadership at enterprise scale. Most of my career has been spent building for Fortune 500 companies, from agency work in New York and London to AOL, Goldman Sachs and Meta. 3B: People use the Comments I redesigned, on iOS, Android, Web, Mobile Web and FB Lite. 300+: Designers adopted the Visual Asset Framework I built from Facebook&#x27;s brand refresh. 160 → 10: 160 variants became 10 solutions, covering 88% of empty-state use cases. 0: Engagement regressions when the Comments redesign shipped. Ship to billions: Comments redesign for 3 billion people; Shipped on iOS, Android, Web, Mobile Web, and FB Lite; 0 engagement regressions at ship. One direction across teams: 9 partner teams, plus all Facebook platform teams; Reframed 30+ comment workstreams into 10; Ran 3 design rhythms of business. Systems that hold: Every user-facing visual sorted into 11 categories; Facebook Design Review approved the framework; 160 variants became 10 solutions, covering 88% of empty-state use cases. Steady through change: Directed 15 designers; 4 executive escalations; 5 manager changes in a year, and still handed off to production ahead of schedule. Capabilities. Four practices, one person. Brand, systems, prototypes and AI workflows usually live on four teams. I run all four and connect them, so the work ships as one system. Brand background: New York · London · Meta. Systems and information architecture: Tokens · IA · Governance. Native prototyping: Xcode · SwiftUI · Figma. AI workflows people sign off on: Claude · Figma plugins · Evals. Shipped Social · Meta. Facebook Comments. One comment system on iOS, Android, Web, Mobile Web and FB Lite Product design, Design systems, Native prototyping, Exec storytelling. Brand · Meta. Visual Asset Framework. One visual system that product teams adopted across Facebook Brand identity, Systems, Governance. Wearables · Startup. Tin Can. I designed the software while the hardware was still being built. Building now. Substrate: A design system that runs like infrastructure. It checks tokens, Code Connect and accessibility before anything ships. Cadence: It decides when AI can ship the work and when a person needs to step in. How I work. Rules before generation. I write the logic, so the AI knows what good looks like. Concept to native code. I prototype in SwiftUI and React on real data, so engineers and leaders see the real thing early. Ambient over loud. AI should be there when you ask and stay out of the way the rest of the time. Tools: Figma, Code Connect, SwiftUI, React, Tailwind, Design tokens, MCP, Claude, Cursor. Let&#x27;s make your system feel simple. © Julie Torrisi-Coffey, Principal Product Designer."></a>
 
-**Principal Product Designer.** Design systems, AI-native workflows, concept to native code.
-Started in brand and graphic design in New York and London. 11+ years in product, most recently Meta.
-
-<img src="assets/hero.gif" width="100%" alt="Comments UI, the tokens behind it, and the SwiftUI prototype running on device">
-
-#### Shipped
-
-**Comments Modernization · Meta**
-<img src="assets/comments-flow.gif" width="420" alt="End-to-end flow: consume, react, write">
-One comment system across iOS, Android, web and Lite · [Case study](https://www.julietorrisi.com)
-
-**Visual Asset Framework · Meta**
-<img src="assets/vaf-tokens.gif" width="420" alt="One token change updating six surfaces">
-One visual system, adopted across product teams · [Case study](https://www.julietorrisi.com)
-
-**Tin Can**
-<img src="assets/tincan-watch.gif" width="420" alt="Kids watch UI designed while the hardware was built">
-Software designed alongside the hardware.
-
-#### Building now
-
-| | Project | What it does | |
-|---|---|---|---|
-| <img src="assets/substrate.gif" width="160"> | **Substrate** | A design system that runs as infrastructure. Tokens, Code Connect and accessibility enforced as checks | [Demo](#) · [Repo](#) |
-| <img src="assets/cadence.gif" width="160"> | **Cadence** | Decides when AI ships the work and when a person steps in | [Figma Community](#) · [Repo](#) |
-
-#### How I work
-**Rules before generation.** I write the logic, so the AI knows what good looks like.
-**Concept to native code.** SwiftUI and React prototypes on real data bring engineering and leadership along.
-**Ambient over loud.** AI should be a quiet layer, not another panel.
-
-`Figma` · `Code Connect` · `SwiftUI` · `React` · `Tailwind` · `Design tokens` · `MCP` · `Claude` · `Cursor`
-
-[julietorrisi.com](https://www.julietorrisi.com) · [LinkedIn](https://www.linkedin.com/in/julietorrisi) · julietorrisi@gmail.com
+<p>
+<a href="https://www.julietorrisi.com"><img src="assets/brand/btn-site.svg" height="48" alt="Portfolio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/julietorrisi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/brand/btn-linkedin-dark.svg"><img src="assets/brand/btn-linkedin-light.svg" height="48" alt="LinkedIn"></picture></a>&nbsp;
+<a href="mailto:julietorrisi@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/brand/btn-email-dark.svg"><img src="assets/brand/btn-email-light.svg" height="48" alt="Email me"></picture></a>
+</p>
